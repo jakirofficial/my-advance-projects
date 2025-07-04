@@ -1,0 +1,21 @@
+header{
+    margin: 20px 10px 3px 10px;
+    border: 40px solid rgb(12, 207, 136);
+    border-style:groove;
+    background-color: rgb(25, 223, 101);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 20px solid gray;
+}
+li{
+  font-size: larger;
+  font-weight: 500;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 30px;
+  border-inline-end: 10px;
+  padding: 5px;
+  border-right: 5px;
+  border-left: 1px;
+  border-left-width: 15px;
+}
